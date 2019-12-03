@@ -8,5 +8,5 @@ Some skills I should learn by doing this:
 4. Grab the URL for an image
 5. Center elements horizontally
 6. Identify three ways for including CSS styles in a page
-7. Understand how to use clases and ids to target CSS
+7. Understand how to use classes and ids to target CSS
 8. Build a basic form
